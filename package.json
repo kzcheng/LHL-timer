@@ -1,0 +1,24 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timer1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzcheng/timer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kzcheng/timer/issues"
+  },
+  "homepage": "https://github.com/kzcheng/timer#readme",
+  "dependencies": {
+    "node-mp3-player": "^1.0.3",
+    "play-sound": "^1.1.3"
+  }
+}
